@@ -33,21 +33,16 @@ Note that the CII Best Practices questionaire will request evidence of tooling u
 One or two sentence preamble describing the element
 ```
 
-This project is part of [DIH^2](http://www.dih-squared.eu/). For more information check the RAMP Catalogue entry for the
-[components](https://github.com/xxx).
-
-| :books: [Documentation](https://tte-project1.readthedocs.io/en/latest/) | :whale: [Docker Hub](https://hub.docker.com/r/link-to-docker) |
-| --------------------------------------------- | ------------------------------------------------------------- |
-
-
 ## Contents
 
--   [Background](#background)
--   [Install](#install)
--   [Usage](#usage)
--   [API](#api)
--   [Testing](#testing)
--   [License](#license)
+- [<TITLE>](#title)
+  - [Contents](#contents)
+  - [Background](#background)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [API](#api)
+  - [Testing](#testing)
+  - [License](#license)
 
 ## Background
 
